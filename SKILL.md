@@ -11,11 +11,11 @@ Manage a shared local address book containing public EVM addresses only. Never r
 
 | User intent | Capability | Instructions |
 |---|---|---|
-| add wallet, save address, сохранить кошелек | Add or update an alias | [Add Or Update](references/address-book.md#add-or-update) |
-| list wallets, show saved names, список кошельков | List aliases | [List](references/address-book.md#list) |
-| resolve wallet, get address, адрес main | Resolve an alias | [Resolve](references/address-book.md#resolve) |
-| rename wallet, переименовать | Rename an alias | [Rename](references/address-book.md#rename) |
-| remove/delete wallet, удалить кошелек | Remove an alias | [Remove](references/address-book.md#remove) |
+| add wallet, save address | Add or update an alias | [Add Or Update](references/address-book.md#add-or-update) |
+| list wallets, show saved names | List aliases | [List](references/address-book.md#list) |
+| resolve wallet, get address | Resolve an alias | [Resolve](references/address-book.md#resolve) |
+| rename wallet | Rename an alias | [Rename](references/address-book.md#rename) |
+| remove wallet, delete wallet | Remove an alias | [Remove](references/address-book.md#remove) |
 
 ## Rules
 
