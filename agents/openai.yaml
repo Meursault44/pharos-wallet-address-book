@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pharos Wallet Address Book"
+  short_description: "Manage reusable public Pharos wallet aliases."
+  default_prompt: "Use $pharos-wallet-address-book to save and resolve public Pharos wallet aliases."
